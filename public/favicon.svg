@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect width="48" height="48" rx="8" fill="#0a0e1a"/>
+  <text x="8" y="34" font-family="monospace" font-size="24" font-weight="bold" fill="#38bdf8">T</text>
+  <text x="24" y="34" font-family="monospace" font-size="24" font-weight="bold" fill="#22c55e">R</text>
+  <rect x="4" y="38" width="40" height="2" rx="1" fill="#ef4444" opacity="0.6"/>
+</svg>
